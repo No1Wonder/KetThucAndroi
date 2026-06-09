@@ -45,6 +45,11 @@ Nhược điểm:
 + Giới hạn tính năng: Bị bó buộc trong những khối mà MIT App Inventor cung cấp sẵn.
 + Rối mắt khi dự án lớn: Nếu ứng dụng có quá nhiều logic, màn hình block trông sẽ như một "mạng nhện" khổng lồ, cực kỳ khó tìm và sửa lỗi.
 
+Copy/Paste Block (Backpack):
+
++ Backpack: là “ba lô” chứa block bạn đã copy.
++ Bạn có thể copy block từ một project, bỏ vào Backpack, rồi paste sang project khác.
++ Tác dụng: tiết kiệm thời gian, tái sử dụng logic, chia sẻ giữa các ứng dụng.
 #
 # sau khi hoàn thành ta build nó và tải về thôi
 
